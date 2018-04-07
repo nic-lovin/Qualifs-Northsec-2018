@@ -15,4 +15,7 @@ Les outils automatisés comme Tachyon et nmap vous serviront pas.
 ### Rev 1
 `baby_asm`    
 
+### Crypto (pis un peu de steg j'imagine)
+`crypto.png`    
+
 D'autres challenges viendront!
