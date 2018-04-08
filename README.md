@@ -17,7 +17,10 @@ Les outils automatisés comme Tachyon et nmap vous serviront pas.
 
 ### Rev 2 (difficile)
 `app`  
-Soumettre la clé à `http://165.227.39.129:8082/?key=xxxx` pour avoir le flag.
+Soumettre la clé à `http://165.227.39.129:8082/?key=xxxx` pour avoir le flag.    
+
+### Rev 3
+`rev3`    
 
 ### Crypto (pis un peu de steg j'imagine)
 `crypto.png`    
