@@ -6,6 +6,7 @@ Les qualifs se font de façon individuelle.
 ### Web 1
 `http://165.227.39.129:8080/index.php?cmd=`  
 C'est pas difficile de DOS le challenge, faites-le juste pas svp, c'est juste désagréable pour tout le monde.
+**Points bonus pour les gens qui ont un reverse shell**    
 
 ### Web 2
 `http://165.227.39.129:8081/`  
